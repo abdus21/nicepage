@@ -46,7 +46,7 @@ nav ul li a{
     display: block;
 }
 .slider-section{
-    background: url(./assets/images/pexels-photo-4264212.jpeg) no-repeat;
+    background: url(../images/pexels-photo-4264212.jpeg) no-repeat;
     padding: 270px 0;
     background-position: 50% 50%;
     background-size: cover;
